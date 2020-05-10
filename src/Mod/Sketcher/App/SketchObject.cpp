@@ -20,8 +20,6 @@
  *                                                                         *
  ***************************************************************************/
 
-#include <iostream>
-
 #include "PreCompiled.h"
 #ifndef _PreComp_
 # include <TopoDS_Shape.hxx>
